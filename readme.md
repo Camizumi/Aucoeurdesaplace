@@ -3,7 +3,9 @@
 <p>Préparation du site pour éventuel téléchargement dans Netlify et Decap CMS</p>
 
 <h2>Ce qui a été terminé</h2>
-<li>
-    - Squelette général du site
-    - Code JavaScript pour afficher la date du jour
-<li>
+
+<ul>
+    <li>Squelette général du site</li>
+    <li>Code JavaScript pour afficher la date du jour</li>
+# Aucoeurdesaplace
+</ul>
